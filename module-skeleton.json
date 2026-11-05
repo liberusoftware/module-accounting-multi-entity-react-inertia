@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-multi-entity-react-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-multi-entity",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-accounting-multi-entity-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/accounting/nextjs/multi-entity.md",
+  "presentationPlan": "projects/accounting/react/multi-entity.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
